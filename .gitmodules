@@ -1,0 +1,12 @@
+[submodule "morph_hw"]
+	path = morph_hw
+	url = https://github.com/roaldlemmens/morph_hw.git
+[submodule "vesc"]
+	path = vesc
+	url = https://github.com/roaldlemmens/vesc.git
+[submodule "ackermann_msgs"]
+	path = ackermann_msgs
+	url = https://github.com/ros-drivers/ackermann_msgs.git
+[submodule "serial"]
+	path = serial
+	url = https://github.com/wjwwood/serial.git
