@@ -10,3 +10,6 @@
 [submodule "serial"]
 	path = serial
 	url = https://github.com/wjwwood/serial.git
+[submodule "morph_description"]
+	path = morph_description
+	url = https://github.com/roaldlemmens/morph_description.git
