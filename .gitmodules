@@ -13,3 +13,6 @@
 [submodule "morph_description"]
 	path = morph_description
 	url = https://github.com/roaldlemmens/morph_description.git
+[submodule "morph_bringup"]
+	path = morph_bringup
+	url = https://github.com/roaldlemmens/morph_bringup.git
