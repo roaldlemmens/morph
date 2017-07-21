@@ -16,3 +16,7 @@
 [submodule "morph_bringup"]
 	path = morph_bringup
 	url = https://github.com/roaldlemmens/morph_bringup.git
+
+[submodule "morph_teleop"]
+	path = morph_teleop
+	url = https://github.com/roaldlemmens/morph_teleop.git
