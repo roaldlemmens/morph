@@ -20,3 +20,6 @@
 [submodule "morph_teleop"]
 	path = morph_teleop
 	url = https://github.com/roaldlemmens/morph_teleop.git
+[submodule "morph_navigation"]
+	path = morph_navigation
+	url = https://github.com/roaldlemmens/morph_navigation.git
