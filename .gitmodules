@@ -23,3 +23,6 @@
 [submodule "morph_navigation"]
 	path = morph_navigation
 	url = https://github.com/roaldlemmens/morph_navigation.git
+[submodule "morph_design"]
+	path = morph_design
+	url = https://github.com/roaldlemmens/morph_design.git
